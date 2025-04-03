@@ -15,3 +15,5 @@ Include the files used
 ### Credits
 forked from https://github.com/udacity/pdsnd_github
 
+### Note
+'git push --force' is dangerous 
