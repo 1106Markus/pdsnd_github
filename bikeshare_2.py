@@ -1,5 +1,5 @@
 import time
-import pandas as pd
+import pandas as pd  # pandas is a powerful data analysis library for Python
 import numpy as np
 
 CITY_DATA = { 'chicago': 'chicago.csv',
