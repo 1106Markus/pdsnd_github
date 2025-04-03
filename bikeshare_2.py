@@ -133,5 +133,5 @@ def main():
             break
 
 
-if __name__ == "__main__":
+if __name__ == "__main__": # Executes main() if the script is run directly
 	main()
